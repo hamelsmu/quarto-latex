@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "latex.html",
+    "href": "latex.html",
+    "title": "quarto-latex",
+    "section": "",
+    "text": "from IPython.display import display, Latex\ndisplay(Latex(\"$$\\mu(x)^2$$\"))\n\n<IPython.core.display.Latex object>"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
